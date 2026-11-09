@@ -24,5 +24,6 @@ here i am making a record of data structures and algorithms problem i solve in l
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
