@@ -7,7 +7,10 @@ public:
 /* signed char: Can interpret byte values above 127 as negative, which can cause problems with functions like tolower().
 - unsigned char: Ensures byte values are interpreted as 0–255, avoiding invalid negative arguments to tolower().*/
 
-            s[i] = tolower((unsigned char)s[i]);
+             //s[i] = tolower((unsigned char)s[i]);
+             if(s[i] >= 'A' && s[i] <= 'Z'){
+             s[i] = s[i] + 32;
+             }
         }
 
         return s;
