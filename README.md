@@ -24,6 +24,7 @@ here i am making a record of data structures and algorithms problem i solve in l
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0520-detect-capital) |
@@ -44,4 +45,12 @@ here i am making a record of data structures and algorithms problem i solve in l
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aishwarya3bn/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
